@@ -1,0 +1,2 @@
+model_checkpoint_path: "kotik"
+all_model_checkpoint_paths: "kotik"
